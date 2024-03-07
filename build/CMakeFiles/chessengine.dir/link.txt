@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/chessengine.dir/main.cc.o CMakeFiles/chessengine.dir/src/board.cc.o CMakeFiles/chessengine.dir/src/tools.cc.o CMakeFiles/chessengine.dir/src/pieces.cc.o CMakeFiles/chessengine.dir/src/perft.cc.o CMakeFiles/chessengine.dir/src/moves.cc.o -o chessengine  -fsanitize=address 
